@@ -5,6 +5,7 @@
     "moduleResolution": "Bundler",
     "lib": ["ES2020"],
     "outDir": "dist",
+    "rootDir": "./src",
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
