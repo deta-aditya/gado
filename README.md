@@ -1,5 +1,8 @@
 # gado
 
+[![CI](https://github.com/deta-aditya/gado/actions/workflows/ci.yml/badge.svg)](https://github.com/deta-aditya/gado/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/deta-aditya/gado/graph/badge.svg)](https://codecov.io/gh/deta-aditya/gado)
+
 Facilitates you in writing easy functional style code.
 
 ## Motivation
