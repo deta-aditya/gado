@@ -1,8 +1,14 @@
 {
-  "name": "gado",
+  "name": "@detaditya/gado",
   "version": "0.1.0",
-  "description": "Functional programming primitives for TypeScript",
+  "description": "Facilitates you in writing easy functional style code",
   "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deta-aditya/gado.git"
+  },
+  "keywords": ["functional", "option", "result", "maybe", "either", "monad", "typescript"],
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
