@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/deta-aditya/gado/actions/workflows/ci.yml/badge.svg)](https://github.com/deta-aditya/gado/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/deta-aditya/gado/graph/badge.svg)](https://codecov.io/gh/deta-aditya/gado)
+[![npm](https://img.shields.io/npm/v/@detaditya/gado)](https://www.npmjs.com/package/@detaditya/gado)
 
 Facilitates you in writing easy functional style code.
 
@@ -317,8 +318,9 @@ Result.ok(5).peekBoth(([val, err]) => console.log(val, err)); // logs 5, null
 
 ## Roadmap
 
+- [ ] Computation notation
 - [ ] Tagged union primitives
-- [ ] `PromiseResult`, `Reader`, `Writer`, `State`, and other types
+- [ ] Additional monadic types
 - [ ] Piping API
 
 ## License
